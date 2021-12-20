@@ -1,0 +1,15 @@
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio massa corporal\bin\Debug\net6.0\Exercicio massa corporal.exe
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio massa corporal\bin\Debug\net6.0\Exercicio massa corporal.deps.json
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio massa corporal\bin\Debug\net6.0\Exercicio massa corporal.runtimeconfig.json
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio massa corporal\bin\Debug\net6.0\Exercicio massa corporal.dll
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio massa corporal\bin\Debug\net6.0\ref\Exercicio massa corporal.dll
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio massa corporal\bin\Debug\net6.0\Exercicio massa corporal.pdb
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio massa corporal\obj\Debug\net6.0\Exercicio massa corporal.csproj.AssemblyReference.cache
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio massa corporal\obj\Debug\net6.0\Exercicio massa corporal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio massa corporal\obj\Debug\net6.0\Exercicio massa corporal.AssemblyInfoInputs.cache
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio massa corporal\obj\Debug\net6.0\Exercicio massa corporal.AssemblyInfo.cs
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio massa corporal\obj\Debug\net6.0\Exercicio massa corporal.csproj.CoreCompileInputs.cache
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio massa corporal\obj\Debug\net6.0\Exercicio massa corporal.dll
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio massa corporal\obj\Debug\net6.0\ref\Exercicio massa corporal.dll
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio massa corporal\obj\Debug\net6.0\Exercicio massa corporal.pdb
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio massa corporal\obj\Debug\net6.0\Exercicio massa corporal.genruntimeconfig.cache
