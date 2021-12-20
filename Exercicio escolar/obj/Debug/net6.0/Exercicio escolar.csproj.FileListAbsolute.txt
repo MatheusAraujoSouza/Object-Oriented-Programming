@@ -1,0 +1,15 @@
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio escolar\obj\Debug\net6.0\Exercicio escolar.csproj.AssemblyReference.cache
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio escolar\obj\Debug\net6.0\Exercicio escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio escolar\obj\Debug\net6.0\Exercicio escolar.AssemblyInfoInputs.cache
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio escolar\obj\Debug\net6.0\Exercicio escolar.AssemblyInfo.cs
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio escolar\obj\Debug\net6.0\Exercicio escolar.csproj.CoreCompileInputs.cache
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio escolar\bin\Debug\net6.0\Exercicio escolar.exe
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio escolar\bin\Debug\net6.0\Exercicio escolar.deps.json
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio escolar\bin\Debug\net6.0\Exercicio escolar.runtimeconfig.json
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio escolar\bin\Debug\net6.0\Exercicio escolar.dll
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio escolar\bin\Debug\net6.0\ref\Exercicio escolar.dll
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio escolar\bin\Debug\net6.0\Exercicio escolar.pdb
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio escolar\obj\Debug\net6.0\Exercicio escolar.dll
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio escolar\obj\Debug\net6.0\ref\Exercicio escolar.dll
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio escolar\obj\Debug\net6.0\Exercicio escolar.pdb
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\Exercicio escolar\obj\Debug\net6.0\Exercicio escolar.genruntimeconfig.cache
