@@ -1,0 +1,15 @@
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\getters and setters\obj\Debug\net6.0\getters and setters.csproj.AssemblyReference.cache
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\getters and setters\obj\Debug\net6.0\getters and setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\getters and setters\obj\Debug\net6.0\getters and setters.AssemblyInfoInputs.cache
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\getters and setters\obj\Debug\net6.0\getters and setters.AssemblyInfo.cs
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\getters and setters\obj\Debug\net6.0\getters and setters.csproj.CoreCompileInputs.cache
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\getters and setters\bin\Debug\net6.0\getters and setters.exe
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\getters and setters\bin\Debug\net6.0\getters and setters.deps.json
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\getters and setters\bin\Debug\net6.0\getters and setters.runtimeconfig.json
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\getters and setters\bin\Debug\net6.0\getters and setters.dll
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\getters and setters\bin\Debug\net6.0\ref\getters and setters.dll
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\getters and setters\bin\Debug\net6.0\getters and setters.pdb
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\getters and setters\obj\Debug\net6.0\getters and setters.dll
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\getters and setters\obj\Debug\net6.0\ref\getters and setters.dll
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\getters and setters\obj\Debug\net6.0\getters and setters.pdb
+C:\Users\55199\Desktop\diverse books\Orientação a objetos\getters and setters\obj\Debug\net6.0\getters and setters.genruntimeconfig.cache
